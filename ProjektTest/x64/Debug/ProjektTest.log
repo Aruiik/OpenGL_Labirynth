@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(144,28): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(308,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(309,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(313,14): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(314,14): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(315,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\main.cpp(316,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  ProjektTest.vcxproj -> C:\Users\Ja\Documents\PROJEKTY\OpelGL\ProjektTest\x64\Debug\ProjektTest.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
